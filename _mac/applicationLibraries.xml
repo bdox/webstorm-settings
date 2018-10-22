@@ -1,13 +1,5 @@
 <application>
   <component name="libraryTable">
-    <library name="@types/enzyme-adapter-react-16" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/jest" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="@types/prop-types" type="javaScript">
       <CLASSES />
       <SOURCES />
@@ -17,10 +9,6 @@
       <SOURCES />
     </library>
     <library name="@types/seamless-immutable" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/styled-components" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
